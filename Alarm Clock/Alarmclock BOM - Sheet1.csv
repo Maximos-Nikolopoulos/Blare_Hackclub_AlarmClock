@@ -1,0 +1,10 @@
+Component refrence,Quanity,Description,Specifications
+U2,1,Seeed Studio XIAO ESP32-C3 Microcontroller,DIP/Throgh-hole varient
+J1,1,8-Pin Female Header Socket Strip,"1x08 Vertical, 2.54mm pitch"
+"SW1, SW2, SW3, SW4",4,Redragon Mechanical Keyswitches,Cherry MC Style compatibility
+BZ1,1,Magnetic Buzzer,"12m x 9.5mm, 7.6mm Lead Pitch"
+"H1, H2, H3, H4",4,Mechanical Board Mounting Holes,3.2mm clearence for M3 screws
+Enclosure Top,1,Custop 3D printed Top cover,3D printed
+Enclosure Middle,1,Custom 3D printed Middle cover,3D printed
+Enclosure Bottom,1,Custom 3D printed Base,3D printed
+Screen cover,1,Custom 3D printed holder for the Display,3D printed
